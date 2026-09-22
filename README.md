@@ -428,30 +428,6 @@ BUILD STATUS: IN_PROGRESS
 
 </div>
 
-## `> CONTRIBUTION.MATRIX`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CONTRIBUTION%20MATRIX-ONLINE-08030F?style=for-the-badge&logo=github&logoColor=D946EF"/>
-
-<br><br>
-
-<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#180A2B">
-    <rect x="10" y="10" width="14" height="14" rx="3"/>
-    <rect x="30" y="10" width="14" height="14" rx="3"/>
-    <rect x="50" y="10" width="14" height="14" rx="3"/>
-    <rect x="70" y="10" width="14" height="14" rx="3"/>
-    <rect x="90" y="10" width="14" height="14" rx="3"/>
-    <rect x="110" y="10" width="14" height="14" rx="3"/>
-    <rect x="130" y="10" width="14" height="14" rx="3"/>
-    <rect x="150" y="10" width="14" height="14" rx="3"/>
-    <rect x="170" y="10" width="14" height="14" rx="3"/>
-    <rect x="190" y="10" width="14" height="14" rx="3"/>
-  </g>
-</svg>
-
-</div>
 
 ## `> CONNECT`
 
