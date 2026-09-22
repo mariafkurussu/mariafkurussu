@@ -396,13 +396,21 @@ BUILD STATUS: IN_PROGRESS
 
 <div align="center">
 
-## `> ACTIVITY.GRAPH`
+## ✦ GITHUB ACTIVITY
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariafkurussu&show_icons=true&hide_border=true&bg_color=08030F&title_color=D946EF&icon_color=A855F7&text_color=F5E8FF" width="49%"/>
-</p>
+<div align="center">
 
-## `> ACHIEVEMENTS`
+<img src="https://img.shields.io/github/followers/mariafkurussu?style=for-the-badge&label=FOLLOWERS&color=08030F&logo=github&logoColor=D946EF"/>
+
+<img src="https://img.shields.io/github/stars/mariafkurussu?style=for-the-badge&label=STARS&color=08030F&logo=github&logoColor=D946EF"/>
+
+<img src="https://img.shields.io/github/commit-activity/y/mariafkurussu?style=for-the-badge&label=COMMITS&color=08030F&logo=git&logoColor=D946EF"/>
+
+<img src="https://img.shields.io/github/last-commit/mariafkurussu/mariafkurussu?style=for-the-badge&label=LAST%20COMMIT&color=08030F&logo=github&logoColor=D946EF"/>
+
+</div>
+
+## ✦ ACHIEVEMENTS
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mariafkurussu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
