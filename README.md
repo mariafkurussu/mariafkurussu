@@ -240,7 +240,7 @@ Still learning. Still building. Still curious about what's next.
 
 <br>
 
-<a href="https://github.com/mariafkurussu">
+<a href="https://github.com/mariafkurussu/SuperTrunfo">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=050816"/>
 </a>
 
