@@ -398,33 +398,21 @@ BUILD STATUS: IN_PROGRESS
 
 ## `> ACTIVITY.GRAPH`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariafkurussu&bg_color=050816&color=00F7FF&line=8B5CF6&point=FF007F&area=true&hide_border=true&custom_title=MAFE%20%2F%2F%20CONTRIBUTION%20MATRIX" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariafkurussu&bg_color=08030F&color=D946EF&line=A855F7&point=E879F9&area=true&hide_border=true&custom_title=MAFE%20%2F%2F%20ACTIVITY" width="95%"/>
+</p>
 
 ## `> ACHIEVEMENTS`
 
-<img src="https://github-profile-trophy.vercel.app/?username=mariafkurussu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mariafkurussu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+</p>
 
 ## `> CONTRIBUTION.MATRIX`
 
-<img src="https://raw.githubusercontent.com/mariafkurussu/mariafkurussu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mariafkurussu/mariafkurussu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ## `> CONNECT`
 
