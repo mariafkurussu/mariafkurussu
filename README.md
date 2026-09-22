@@ -457,6 +457,8 @@ BUILD STATUS: IN_PROGRESS
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariafkurussu&show_icons=true&theme=radical"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/TESTE-FUNCIONANDO-C026D3?style=for-the-badge"/>
+
+</div>
