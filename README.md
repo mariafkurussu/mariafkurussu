@@ -453,3 +453,10 @@ BUILD STATUS: IN_PROGRESS
 <sub>⚡ Built with curiosity • code • caffeine • and a lot of debugging</sub>
 
 </div>
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariafkurussu&show_icons=true&theme=radical"/>
+</p>
