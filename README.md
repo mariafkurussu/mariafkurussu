@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:08030F,45:180A2B,75:3B0A45,100:08030F&text=MAFE%20KURUSSU&fontColor=F5E8FF&fontSize=58&fontAlignY=40&desc=COMPUTER%20SCIENCE%20%7C%20TECHNOLOGY%20%7C%20BUILDING%20THE%20FUTURE&descAlignY=63&descSize=15&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:08030F,45:180A2B,75:3B0A45,100:08030F&text=MARIA%20FERNANDA%20KURUSSU&fontColor=F5E8FF&fontSize=58&fontAlignY=40&desc=COMPUTER%20SCIENCE%20%7C%20TECHNOLOGY%20%7C%20BUILDING%20THE%20FUTURE&descAlignY=63&descSize=15&animation=twinkling"/>
 
 <br>
 
