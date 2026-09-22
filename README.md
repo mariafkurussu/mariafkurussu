@@ -173,8 +173,8 @@ different areas of technology.
 <img src="https://img.shields.io/badge/Python-08030F?style=for-the-badge&logo=python&logoColor=F59E0B"/>
 <img src="https://img.shields.io/badge/C-08030F?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
 <img src="https://img.shields.io/badge/SQL-08030F?style=for-the-badge&logo=postgresql&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/Git-08030F?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-08030F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Word-08030F?style=for-the-badge&logo=microsoftword&logoColor=2B579A"/>
+<img src="https://img.shields.io/badge/PowerPoint-08030F?style=for-the-badge&logo=microsoftpowerpoint&logoColor=D24726"/>
 <img src="https://img.shields.io/badge/VS%20Code-08030F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 
 <br>
