@@ -399,7 +399,7 @@ BUILD STATUS: IN_PROGRESS
 ## `> ACTIVITY.GRAPH`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariafkurussu&bg_color=08030F&color=D946EF&line=A855F7&point=E879F9&area=true&hide_border=true&custom_title=MAFE%20%2F%2F%20ACTIVITY" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariafkurussu&show_icons=true&hide_border=true&bg_color=08030F&title_color=D946EF&icon_color=A855F7&text_color=F5E8FF" width="49%"/>
 </p>
 
 ## `> ACHIEVEMENTS`
@@ -451,14 +451,5 @@ BUILD STATUS: IN_PROGRESS
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,50:0B1026,100:050816&section=footer&animation=twinkling"/>
 
 <sub>⚡ Built with curiosity • code • caffeine • and a lot of debugging</sub>
-
-</div>
-
-
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TESTE-FUNCIONANDO-C026D3?style=for-the-badge"/>
 
 </div>
