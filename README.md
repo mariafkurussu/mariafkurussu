@@ -402,25 +402,56 @@ BUILD STATUS: IN_PROGRESS
 
 <img src="https://img.shields.io/github/followers/mariafkurussu?style=for-the-badge&label=FOLLOWERS&color=08030F&logo=github&logoColor=D946EF"/>
 
-<img src="https://img.shields.io/github/stars/mariafkurussu?style=for-the-badge&label=STARS&color=08030F&logo=github&logoColor=D946EF"/>
-
 <img src="https://img.shields.io/github/commit-activity/y/mariafkurussu?style=for-the-badge&label=COMMITS&color=08030F&logo=git&logoColor=D946EF"/>
 
 <img src="https://img.shields.io/github/last-commit/mariafkurussu/mariafkurussu?style=for-the-badge&label=LAST%20COMMIT&color=08030F&logo=github&logoColor=D946EF"/>
 
 </div>
 
-## ✦ ACHIEVEMENTS
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariafkurussu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariafkurussu&bg_color=08030F&color=D946EF&line=A855F7&point=E879F9&area=true&hide_border=true" width="95%"/>
 </p>
+
+## ✦ ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-08030F?style=for-the-badge&logo=academia&logoColor=D946EF"/>
+
+<img src="https://img.shields.io/badge/PYTHON-DEVELOPER-08030F?style=for-the-badge&logo=python&logoColor=F59E0B"/>
+
+<img src="https://img.shields.io/badge/GITHUB-ACTIVE-08030F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORER-08030F?style=for-the-badge&logo=github&logoColor=D946EF"/>
+
+</div>
 
 ## `> CONTRIBUTION.MATRIX`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mariafkurussu/mariafkurussu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTRIBUTION%20MATRIX-ONLINE-08030F?style=for-the-badge&logo=github&logoColor=D946EF"/>
+
+<br><br>
+
+<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#180A2B">
+    <rect x="10" y="10" width="14" height="14" rx="3"/>
+    <rect x="30" y="10" width="14" height="14" rx="3"/>
+    <rect x="50" y="10" width="14" height="14" rx="3"/>
+    <rect x="70" y="10" width="14" height="14" rx="3"/>
+    <rect x="90" y="10" width="14" height="14" rx="3"/>
+    <rect x="110" y="10" width="14" height="14" rx="3"/>
+    <rect x="130" y="10" width="14" height="14" rx="3"/>
+    <rect x="150" y="10" width="14" height="14" rx="3"/>
+    <rect x="170" y="10" width="14" height="14" rx="3"/>
+    <rect x="190" y="10" width="14" height="14" rx="3"/>
+  </g>
+</svg>
+
+</div>
 
 ## `> CONNECT`
 
